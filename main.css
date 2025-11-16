@@ -1,0 +1,118 @@
+body{
+    background-color: black;
+    /*background color black*/
+    color:white;
+    /*color white*/
+    margin: 0px;
+    /*margin 0px*/
+    padding: 0px;
+    /*padding 0px*/
+}
+
+nav a{
+    background-color: rgb(231, 28, 28);
+     /*background color red*/
+    color: rgb(30, 17, 36);
+    /*color black*/
+    border-radius: 10px;
+    /*border radius 10px*/
+    padding: 10px;
+    /*padding 10px*/
+    margin: 10px;
+     /*margin 10px*/
+}
+header{
+margin: 20px;
+ /*margin 20px*/
+}
+main{
+    margin: 20px;
+     /*margin 20px*/
+}
+.div{
+    color:purple;
+     /* color purple*/
+    font-style: oblique;
+    /*this is the font style*/
+
+}
+h1{
+color: aqua;
+/*color aqua*/
+font-style: italic;
+/*this is the font style*/
+}
+h2{
+color: rgb(237, 100, 9);
+/*color orange*/
+font-style: italic;
+/*this is the font style*/
+}
+h3{
+color: white;
+/*color white*/
+font-style: oblique;
+/*this is the font style*/
+}
+img{
+    width: 300px;
+    height: 200px;
+    /*img sizes so they fit on the webpage*/
+}
+form{
+    color: rgb(31, 207, 160);
+    /* color blue*/
+    font-style: initial;
+    /*this is the font style*/
+       display: flex;   
+          /* it Align the items in a row */      
+
+   
+}
+.button{
+    background-color: rgba(240, 24, 157, 0.678);
+    /* color red*/
+    color: black;
+    /* color black*/
+    border-radius: 20px;
+    /*bordere radius*/
+    padding: 5px;
+     /*padding 5px*/
+}
+.div1{
+
+    color: aqua;
+    /* color blue*/
+    font-style: italic;
+     /*this is the font style*/
+    font-size: 40px;
+    /*this is the font size*/
+}
+.div2{
+
+    color: aqua;
+    /* color blue*/
+    font-style: oblique;
+     /*this is the font style*/
+   font-size: 20px;
+   /*this is the font size*/
+}
+p{
+color: rgb(0, 153, 255);
+/* color blue*/
+font-style: italic;
+ /*this is the font style*/
+font-size: 20px;
+/*this is the font size*/
+}
+
+p2{
+color: rgb(9, 151, 227);
+/* color blue*/
+font-style: italic;
+ /*this is the font style*/
+font-size: 20px;
+/*this is the font size*/
+}
+
+
